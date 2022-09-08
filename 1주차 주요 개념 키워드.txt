@@ -1,0 +1,7 @@
+git
+버전관리
+repo
+commit
+add/staging
+tracking
+push/pull/clone
